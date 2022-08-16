@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bmdVC013/deploy-azure-web-app/issues"
   },
-  "homepage": "https://github.com/bmdVC013/deploy-azure-web-app#readme"
+  "homepage": "https://github.com/bmdVC013/deploy-azure-web-app#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
 }
